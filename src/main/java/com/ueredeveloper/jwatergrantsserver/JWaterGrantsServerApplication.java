@@ -1,0 +1,13 @@
+package com.ueredeveloper.jwatergrantsserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JWaterGrantsServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JWaterGrantsServerApplication.class, args);
+	}
+
+}
